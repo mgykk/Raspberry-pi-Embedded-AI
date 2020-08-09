@@ -33,7 +33,7 @@
 
   追踪部分使用其他颜色框出
 
-![](https://github.com/mgykk/Raspberry-pi-Embedded-AI/blob/master/image/olor.png)
+![](https://github.com/mgykk/Raspberry-pi-Embedded-AI/blob/master/image/color.png)
 
 - 二维码识别
 
