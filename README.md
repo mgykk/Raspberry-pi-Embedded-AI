@@ -13,7 +13,7 @@
 
 ## 安卓控制
 
-![](https://github.com/mgykk/Raspberry-pi-Embedded-AI/blob/master/image/PC%E6%8E%A7%E5%88%B6%E7%95%8C%E9%9D%A2.png)
+![](https://github.com/mgykk/Raspberry-pi-Embedded-AI/blob/master/image/%E5%AE%89%E5%8D%93%E6%8E%A7%E5%88%B6%E7%95%8C%E9%9D%A2.jpg)
 
 ## 功能实现
 
