@@ -33,7 +33,7 @@
 
   追踪部分使用其他颜色框出
 
-![追踪部分使用其他颜色框出](E:https://github.com/mgykk/Raspberry-pi---Embedded-AI/tree/master/image/color.png)
+![](E:https://github.com/mgykk/Raspberry-pi---Embedded-AI/tree/master/image/color.png)
 
 - 二维码识别
 
